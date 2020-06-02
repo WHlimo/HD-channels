@@ -301,22 +301,6 @@
 		http://125.210.152.18:9090/live/QSSH_1200.m3u8
 		#EXTINF:-1 ,动物世界 
 		http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
-		#EXTINF:-1 ,怀旧剧场 
-		http://39.135.15.70:6610/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
-		#EXTINF:-1 ,老 故 事  
-		http://39.135.15.70:6610/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
-		#EXTINF:-1 ,文化精品 
-		http://39.135.15.70:6610/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
-		#EXTINF:-1 ,中国教育1台 
-		http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
-		#EXTINF:-1 ,中国教育2台 
-		http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
-		#EXTINF:-1 ,中国教育3台 
-		http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
-		#EXTINF:-1 ,中国教育4台 
-		http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
-		#EXTINF:-1 ,山东教育 
-		http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
 		#EXTINF:-1 ,奥林匹克高清 
 		http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
 		#EXTINF:-1 ,奥铃匹克蓝光 
