@@ -1,4 +1,6 @@
-#EXTM3U8
+#EXTM3U
+#EXTINF:-1 ,====== 4K 電視節目和電影 ======
+http://0/0.m3u8
 
 #EXTINF:-1 ,CCTV4KUHD
 http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
