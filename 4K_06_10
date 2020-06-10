@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U8
+
 #EXTINF:-1 ,CCTV4KUHD
 http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 #EXTINF:-1 ,CCTV4KUHD
