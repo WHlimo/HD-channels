@@ -1,40 +1,80 @@
-#EXTM3U
-#EXTINF:-1,	凤凰资讯高清,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1,	凤凰中文高清（福州移动）,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1,	高清-凤凰卫视中文台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8 
-#EXTINF:-1,	高清-凤凰卫视资讯台,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8 
-#EXTINF:-1,	中文,http://liveali.ifeng.com/live/FHZW.m3u8
-#EXTINF:-1,	资讯,http://liveali.ifeng.com/live/FHZX.m3u8
-#EXTINF:-1,	凤凰资讯（印尼1）,http://210.210.155.35/qwr9ew/s/s21/02.m3u8
-#EXTINF:-1,	凤凰资讯（印尼2）,http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
-#EXTINF:-1,	凤凰资讯1,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1,	凤凰资讯2,http://117.169.120.138:8080/live/fhzixun/.m3u8 
-#EXTINF:-1,	凤凰资讯3,http://live.centerch.com/fhzx.m3u8
-#EXTINF:-1,	凤凰资讯4,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1,	凤凰资讯5,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1,	凤凰资讯6,http://ott.fj.chinamobile.com//PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1,	凤凰中文1,http://live.centerch.com/fhzw.m3u8
-#EXTINF:-1,	凤凰中文2,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1,	凤凰中文3,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1,	凤凰资讯HD[杭州移动],http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1,	凤凰资讯HD[杭州移动],http://117.148.187.114/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1,	凤凰资讯[温州移动],http://39.134.185.69/PLTV/88888888/224/3221226491/index.m3u8?
-#EXTINF:-1,	凤凰资讯（浙江移动）,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
-#EXTINF:-1,	凤凰资讯（南昌移动）,http://223.82.250.72/live/fhzixun/1.m3u8
-#EXTINF:-1,	凤凰中文 HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8 
-#EXTINF:-1,	凤凰中文 HD,http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8 
-#EXTINF:-1,	凤凰中文 HD,http://qlive.fengshows.cn/PCC.flv 
-#EXTINF:-1,	凤凰中文,http://live.centerch.com/fhzw.m3u8 
-#EXTINF:-1,	凤凰中文,http://liveali.ifeng.com/live/FHZW.m3u8 
-#EXTINF:-1,	凤凰资讯 HD,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8 
-#EXTINF:-1,	凤凰资讯 HD,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8 
-#EXTINF:-1,	凤凰资讯 HD,http://qlive.fengshows.cn/PIN.flv 
-#EXTINF:-1,	凤凰咨询,http://liveali.ifeng.com/live/FHZX.m3u8 
-#EXTINF:-1,	凤凰资讯,http://live.centerch.com/fhzx.m3u8 
-#EXTINF:-1,	凤凰香港 HD,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8 
-#EXTINF:-1,	凤凰香港 HD,http://qlive.fengshows.cn/PHK.flv 
-#EXTINF:-1,	凤凰香港 HD,http://qlive.fengshows.cn/live720p/PHK.flv 
-#EXTINF:-1,	凤凰香港 HD,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8 
-#EXTINF:-1,	香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv 
-#EXTINF:-1,	香港卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8 
-#EXTINF:-1,	凤凰电影,rtmp://58.200.131.2/livetv/fhdy
+#EXTM3U8
+
+#EXTINF:-1 ,凤凰资讯高清
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 ,凤凰中文高清（福州移动)
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 ,高清-凤凰卫视中文台
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8 
+#EXTINF:-1 ,高清-凤凰卫视资讯台
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8 
+#EXTINF:-1 ,中文
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 ,资讯
+http://liveali.ifeng.com/live/FHZX.m3u8
+#EXTINF:-1 ,凤凰资讯（印尼1）
+http://210.210.155.35/qwr9ew/s/s21/02.m3u8
+#EXTINF:-1 ,凤凰资讯（印尼2）
+http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
+#EXTINF:-1 ,凤凰资讯1
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,凤凰资讯2
+http://117.169.120.138:8080/live/fhzixun/.m3u8 
+#EXTINF:-1 ,凤凰资讯3
+http://live.centerch.com/fhzx.m3u8
+#EXTINF:-1 ,凤凰资讯4
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 ,凤凰资讯5
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,凤凰资讯6
+http://ott.fj.chinamobile.com//PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 ,凤凰中文1
+http://live.centerch.com/fhzw.m3u8
+#EXTINF:-1 ,凤凰中文2
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,凤凰中文3
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 ,凤凰资讯HD[杭州移动]
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 ,凤凰资讯HD[杭州移动]
+http://117.148.187.114/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 ,凤凰资讯[温州移动]
+http://39.134.185.69/PLTV/88888888/224/3221226491/index.m3u8?
+#EXTINF:-1 ,凤凰资讯（浙江移动）
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
+#EXTINF:-1 ,凤凰资讯（南昌移动）
+http://223.82.250.72/live/fhzixun/1.m3u8
+#EXTINF:-1 ,凤凰中文 HD
+http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8 
+#EXTINF:-1 ,凤凰中文 HD
+http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8 
+#EXTINF:-1 ,凤凰中文 HD
+http://qlive.fengshows.cn/PCC.flv 
+#EXTINF:-1 ,凤凰中文
+http://live.centerch.com/fhzw.m3u8 
+#EXTINF:-1 ,凤凰中文
+http://liveali.ifeng.com/live/FHZW.m3u8 
+#EXTINF:-1 ,凤凰资讯 HD
+http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8 
+#EXTINF:-1 ,凤凰资讯 HD
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8 
+#EXTINF:-1 ,凤凰资讯 HD
+http://qlive.fengshows.cn/PIN.flv 
+#EXTINF:-1 ,凤凰咨询
+http://liveali.ifeng.com/live/FHZX.m3u8 
+#EXTINF:-1 ,凤凰资讯
+http://live.centerch.com/fhzx.m3u8 
+#EXTINF:-1 ,凤凰香港 HD
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8 
+#EXTINF:-1 ,凤凰香港 HD
+http://qlive.fengshows.cn/PHK.flv 
+#EXTINF:-1 ,凤凰香港 HD
+http://qlive.fengshows.cn/live720p/PHK.flv 
+#EXTINF:-1 ,凤凰香港 HD
+http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8 
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv 
+#EXTINF:-1 ,香港卫视
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8 
+#EXTINF:-1 ,凤凰电影
+rtmp://58.200.131.2/livetv/fhdy
