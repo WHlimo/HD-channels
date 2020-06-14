@@ -14,3 +14,7 @@ http://live.falconiptv.com:80/jasmin25/jasmin25/118042?checkedby:iptvcat.com
 http://185.150.130.123:8000/play/str36?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC World News
 http://live.falconiptv.com:80/jasmin25/jasmin25/118006?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SG" tvg-logo="" group-title="Undefined",CNA SG
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="" group-title="Undefined",CBC News
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
