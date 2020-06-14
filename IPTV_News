@@ -6,8 +6,6 @@ http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/31870.m3u8?check
 http://185.150.130.123:8000/play/str26?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC News HD
 http://live.falconiptv.com:80/jasmin25/jasmin25/117988?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",CNN INTERNATIONAL
-http://185.150.130.123:8000/play/str33?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNBC News
 http://live.falconiptv.com:80/jasmin25/jasmin25/118042?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="News",BBC WORLD NEWS
@@ -18,3 +16,9 @@ http://live.falconiptv.com:80/jasmin25/jasmin25/118006?checkedby:iptvcat.com
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 #EXTINF:0 tvg-country="Canada" tvg-logo="" group-title="Undefined",CBC News
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN INTERNATIONAL
+http://thenew.tv:8000/live/Dante/Dante1/164479.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",US- CNN International
+http://linux-app.tv:6204/15020208413552/24021189856304/20592?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TURK" tvg-logo="" group-title="Undefined",CNN INTERNATIONAL
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_hd.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
