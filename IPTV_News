@@ -1,24 +1,26 @@
 #EXTM3U
 #PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",BBC Earth HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/31870.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BBC EARTH
-http://185.150.130.123:8000/play/str26?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",BBC Earth FHD
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/1457.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BBC EARTH FHD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51487?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC News HD
 http://live.falconiptv.com:80/jasmin25/jasmin25/117988?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNBC News
 http://live.falconiptv.com:80/jasmin25/jasmin25/118042?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="News",BBC WORLD NEWS
-http://185.150.130.123:8000/play/str36?checkedby:iptvcat.com
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51103?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC World News
 http://live.falconiptv.com:80/jasmin25/jasmin25/118006?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SG" tvg-logo="" group-title="Undefined",CNA SG
-https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="Canada" tvg-logo="" group-title="Undefined",CBC News
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN INTERNATIONAL
-http://thenew.tv:8000/live/Dante/Dante1/164479.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",US- CNN International
-http://linux-app.tv:6204/15020208413552/24021189856304/20592?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TURK" tvg-logo="" group-title="Undefined",CNN INTERNATIONAL
-https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_hd.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/51115?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN HD
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/3054?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",US- CNN HD
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/99221.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN INTERNATIONAL
+http://176.10.117.3:5000/play/a03e?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC INTERNATIONAL
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8?checkedby:iptvcat.com
